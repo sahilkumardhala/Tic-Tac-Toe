@@ -121,3 +121,43 @@ The `if __name__ == "__main__":` block is the main execution of the program. It 
 ### How to Run
 
 To run the Tic Tac Toe game, execute the Python script. The program will prompt you to enter a value indicating your move (0-8) on the Tic Tac Toe board. The game will display the board, take your input, and continue until there is a winner or a draw.
+
+Certainly! Let's provide an overview of the Tic Tac Toe game.
+
+## Tic Tac Toe Game Overview
+
+Tic Tac Toe, also known as noughts and crosses, is a classic two-player game typically played on a 3x3 grid. The players take turns marking a square with their symbol (usually 'X' for the first player and 'O' for the second). The goal is to be the first to get three of their symbols in a row, either horizontally, vertically, or diagonally.
+
+### Objective
+
+The main objective of Tic Tac Toe is to create a continuous line of three of your symbols (either 'X' or 'O') in a row, column, or diagonal on the game grid.
+
+### Rules
+
+1. **Grid**: The game is played on a 3x3 grid, but variations with larger grids are also possible.
+
+2. **Players**: Two players participate, usually denoted as 'X' and 'O'. 'X' goes first.
+
+3. **Moves**: Players take turns to place their symbol in an empty cell on the grid.
+
+4. **Winning**: A player wins by placing three of their symbols in a horizontal, vertical, or diagonal row.
+
+5. **Draw**: If all cells are filled and no player has three in a row, the game is a draw.
+
+### Gameplay
+
+1. **Start**: The game starts with an empty grid.
+
+2. **Player Turns**: Players take turns to place their symbol in an empty cell.
+
+3. **Winning**: The game continues until one player achieves three in a row or all cells are filled (resulting in a draw).
+
+4. **Win Announcement**: If a player wins, the game announces the winner. If it's a draw, the game announces a draw.
+
+### Strategy
+
+- Players often start in the center cell to maximize potential winning moves.
+- Blocking the opponent's winning moves is crucial to prevent them from winning.
+- Corners are valuable positions since they can be part of multiple winning combinations.
+
+Tic Tac Toe is a simple yet engaging game, often used as a learning tool for basic strategy and logical thinking, particularly for children. It's a staple of childhood games and is widely known and played around the world.
